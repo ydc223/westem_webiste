@@ -1,0 +1,9 @@
+.main {
+	color: black !important;
+}
+.lower {
+	text-transform: none !important;
+}
+.center{
+	text-align: center;
+}
